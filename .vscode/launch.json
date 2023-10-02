@@ -12,7 +12,7 @@
             "rejectUnauthorized": true,
             "resultLimit": 100,
             "timeoutSecs": 60,
-            "user": "xyz_local",
+            "user": "brn_local",
             "password": ""
         },
         {
@@ -26,7 +26,7 @@
             "rejectUnauthorized": true,
             "resultLimit": 100,
             "timeoutSecs": 60,
-            "user": "xyz_cluster",
+            "user": "brn_cluster",
             "password": ""
         }
     ]
